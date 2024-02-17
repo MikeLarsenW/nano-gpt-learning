@@ -12,370 +12,319 @@ MIT
 Results are saved to new.txt it mostly came out as gibberish for the model I used to generate the data, looks like lowering the batch_size and block_size increased the training and validation loss. here is the output:
 
 
-Sool, Ruchnow onot, there this gentler:
-Lent is and for lillent.
+S
+incinging of those two succeeding two avoid
+our demands the enemy of it.
 
-RichmOve again; and thy belose and his queen is speak
-To sumble ut: adoubt'd EnglaI:
-In anwill it feignis's not,
-You, go gones iftease? one by yonk no away no whose, and you all hast;
-resit dead to and prist. Throne make
-But to pourseth my thath besided
-Sirwided neight queen abon. Thus, I but:
-'tis of digable to prace.
+CORIOLANUS:
+The curfles have well strike, great Aufidius!
 
-BUCKINGHAR:
-Vect Siguicis en to hank indie you?
+AUFIDIUS:
+Augracius hath noon
+The winds of the Coriolanus.
 
-MENIUS:
-No, love But and I have die nown.
+Father:
+Thou wouldst have had entlering Romans!
+I'll speak a nobile, a prasing and great blood,
+Speaking indeed, despite not love out. Though hath present,
+When 'twere thy head effect their ancestorh,
 
-ISABELLA:
-I seei quitieluke hered are thee will upenfar'd?
-That notisurerrow our in this beeapty:
-My theresoner: gomeo! and itself stay all hones
-Of thou stand? Powness: mther'd wlost a vie ower most to seephard
-I me stay.
+Abbout the stones of this entomise
+Make me known their toys and robberanched joy;
+But then by the crown and thy out of York
+Which empty brothers, this to be thy brows.
 
-BRUTUS:
-Or the
-know me, lords, sigh'd stay food ble, as mitue with RomEo:
-I the yet tallike, of hence is is sover old somen,.
+BUSHY:
+Ay, boy.
 
-quUTES:
-Then for thee more unto my dries, and deen you,
-The make aid no my stale leash?
+CAPULET:
+Look boot love where? fly on shall on what fear?
 
-First CAMPS:
-Partue ose? thumon Herban stannow
-Auted sir, and welf gravines foads you art epplass'
-now stew prequest:
-To quncing and agand to With a feall
-sessided our man! Goft neversight
-We Celdamo.
+BUCKINGHAM:
+This, my dug, thinking you shall marry me.
 
-KINGHARD III:
-No may, he gist Rice on them as my there son!
+HORTENSIO:
+Thou bled noble Georgima!
 
-For CAMILLO:
-I king For it this thath contalle!
-Or amistremate God ansterves: my new, thou crangen you
-Come than the feemmatts; then is a felorge's,
-RoMe upon stay here; I fool but have ae !
+KING RICHARD IV:
+The gentle Northumberland, and thrive me sworn,
+That thou hopest on the Tower Scalis. Farewell, O cousin!
 
-Besing me voiced Margmen:
-To thurs
-Oraht; aham it boding make then me,
-Or ir the yealf: call the enjeits?
+BUCKINGHAM:
+Well, gentle prince you may I lasck-which was reign,
+As lie when both 'twere partial your should not
+But to your live in nature, from mine
+Thou latt will be worn: and, by my poor joy
+Ittle to be jest, having you a word,
+You cannot temperate hunt so. Lady marry,--her,
+If you advise you; who, look he will; 'tis;
+Pray you, be so.
+If you thank your welkedness which you reign not there,
+I would learn not, since your beauty yield no more
+Can you but thankful morfants you are;
+You're a house guilty of a child,
+And these verge your forbearants, and many follows:
+Now 'twere you your princess, my lords are sound
+To till Warwick had his news,
+And yielded as mon natural crowns to ear
+The jot, mells, and both and greets the earth throne.
 
-QUEEN MOGE:
-Someny lovey eart that, you thy hears is dembless.
+PRINCE EDWARD:
+I wish, and give leaving our gage
+Looks to go with death. Give me to thy hand.
+O woe agrge thee, thy sweet force a heart,
+That fillst thy fill calumon, and thyself,
+Which blows from his son from reach necessity
+At a lossess shall and desperate thee.
+Make you the jointud save I swear with the rest,
+Disposing that blood, worse that the infantlicial.
+Lady Bolingbroke deserives the innocentry of court
+And all that thou do see't.
 
-GLUCESTER:
-Loved come of mide? sighth is so: burieve done:
-Our find tell we no senator, and and the gentle,
-Before the vow muth wall I'll heads,'
-There speckil me for to soo,
-What show that fazens, no would than you!
-Whyseof I gent arroward.
-
-GoLUCESTER:
-To skir, whys; my lord; good
-Cety of go bedines: inpleasure.'
-
-KING RICHARD II:
-Tas ce apparrous of Capter; no maing-estirately chave force
-Thou the sparts of his bleass a too earue:
-Adialial breather's nobles!
-
-ROMEO:
-O hands the rown'd not his look of adones
-In tike'd is manioled anger the advice so:
-I thoughold love if unneminess of that
-say he dood speemiless of a leaver.
-
-SICINIUS:
-Here I is shider will sayly folmond
-Intake for or hasave than that Gentleme:
-Ay, hods my cave in limst pristurs:
-Does,' death, bu dexock ensuret to againsts lust wast,
-Thy loving plersold His servign not Leive crownry
-To me.
-
-DUKE VINGHAM:
-But them, go he move thou shall new my brotheel dry
-Will Letch cray of sucfic touch mind
-Barking of oneman Of that freme of I scials
-Will not unfattion thy fablor forth,
-For follow to holes, If the must sais
-what hore that holenow me, and I vade our daughter fallaple.
-
-DUKE VING RY VI
-
-Lord.
-
-KING ROMEO:
-Or want?
-Yeaffaver Rome is deges not?
-
-KING EDWARD IV:
-Say the mies, sir Glaciou black this
-sityiY thou To ill know I the come to he of of a.
-
-KING HENRY VI:
-Oblea,
-Then not where puired an Clidona! I?
-
-AUTOLY GAULEY:
-Have bloody hath to stream him thy thy vice!
-
-KING RICBARD II:
-May weepof abolll vest there thune:
-The one eyes a pown, for anthing: geas I
-To death.
-
-LUCIO:
-Now the new Edward of werd's be asit
-you her shad the quit. Coping or thus the shaft:
-Thoupt you nore, lockangfy I'll ever?
-
-VOLUS:
-Gest then Farewell side yed
-Thy tongue one her manst sorrow in she stad:
-Tseemial med here trive ass and that sir,
-Right you, for ceifice, must he she chaile
-gid in grid our lame, so said and slistreford thus dissaber Bidging me.
+GREEN:
+And all that of 'the chair, may you cannot,
+There would be achess? When you can think on offence,
+You must vay be your noble shearing, but that
+May serve toward, but, for either ass.
 
 JULIET:
-Be, Shame.-
-How mays leave a newealt all you unjurumen'sgi,
-By abefore me be toirdeech sill not the Tolice of my green of storion,' tredis,
-Well nobling to the untaken to podum, for If though Chrilfice
-Thy would'st thy stiils. here-- bitter Polmens
-Tell ast, aI detlemal.
+Happy been so that doth ne'er refuse now,
+Down the blood of blood, where he could threat,
+And, for the ice weep, purge on
+EqWard may forth Claudio's exterion,
+And put your daggering on the time to ribble.
 
-KING RICHARD II:
-I your loved, to see the indling a sprocs in as queen.
+Pursuivator:
+Sweet! but not say you the better strange of the helm,
+And thus ne'er divided now the time.
 
-HErMILLO:
-I am the
-conatus first it their take, Sir,
-I chang thou boduke is and now
-The see of say for will Poul ampomy in atters.
+DUKE OF AUMERLE:
+Fourth it together, as ne'er I would a man
+than I, rue-merciful known by as his,
+which respitation my obsequick other lusts know it.
 
-ROTHISBUS:
-he you have floce our protiance to Worwith usbeget swixtation here is plains,
-And follow you have glen.
+ROMEO:
+The Volsces because it of syll forboarding men
+Did suffer what thou cannot replain;
+And that here delighted may gat Edward,
+You have infecked to and true splint in
+That which thou can still not, march not infect it:
+And ask it, since comes of yours and tiger
+That courage yourself of infition: and it to full
+There instrumes to grace that cause, who can make
+And practise.
 
-First Som lattle stable:
-Atterm they vower dapose farth, modmistate
-As here were all paswen haster to atch the belaom, that much part stephoess not her se suil.
+ANGELO:
+Commend me to visit me.
 
-Third stor:
-Trow, aught the vaice man! my froad
-Ruspland is and plaitor foolom king force,
-So madion in to readue in to staid;
-I am the more sow come, for it ale.
-No play and; it it surpless reigores clarent to they belight
-Shall mother pless'd'd honourn hy servaid in as,
-With preserots, 'Tis More town agries her proace Toll,
-So morter
-'Twouch a'even tunes, and of untuason Wird; what so beat,
-Oven of thy satch one sucep asfiex:
-My phis highreast so covent it,
-They hast his sillow, so pheexing.
+ISABELLA:
 
-KING EDWIs EDB:
-Touch the dore?
+ISABELLA:
+It is a better than your good lady?
 
-KING RICHARD II:
-I atter in no March timen-most, what sirie
-Thou as to pleases! grate, what a there.
+ISABELLA:
+Sir, and to it will let you be sworn to I;
+That it is a man lie cannot spake off. Then, since taliffe,
+It is Lucentio, from one is yen too soon
+That thinke and given both you unthrust; and heup,
+With such sticks and sits fofeling young men
+But he's dishonour. Buy to the properlush do
+I do most regiment of the truth of mine own absench
+Action of the way to your present, out welcome me
+To up sleep ery in our love by the thirst affools' love,
+Give us the measure of Prince Edward;
+And now after the tricks hath the swholesom
+That build what we hishonour forgave
+Muche will not grief here into holding:
+Your honour furth that I might have not go.
 
-hE!
+KING HENRY VI:
+What words against God here, 'Gaunt Hastings on,
+Where as a brave? the depulless lalighter these
+That now governs me that heavy which keeps.
+Mosarch old nature, fre fresh Fruit, and heart.
 
-DUKE VINCENTIO:
-As is traree, anoady it whence speak?
-
-She beswixt membreak. did my mines and I herelply?
-
-KING RICHARD II:
-Hare no to states, he now canstaid bosor some comesicy and the tear, I have may vole
-An old and baward; answee some, glorow eyes,'
-Nothing now, the kist that is, s; and he accan, for le;
-My pidg with of is sore trapt incele to in;
-But you, the we live the king moch stuight.
-
-KING RICHARD III:
-You show; not thou draith the thee alt, my had looks,
-Edward tell theirse of their bloolie show no slawn onch,
-The duke tim win sill-nited gence?
-
-DUCK:
-As you hop o't is chamberover of my py ray
-Dovoice and?
-
-GUKE VI:
-Vhargrea hast not restired to have gone,
-How I secomme! That past maning of the come. O, but the quit less;
-Do and injectish which here; and is
-irtion a chore; thereides' lord, and feel hight me knows.
-Unright Master?
-
-Pirn:
-Post pardef'd, are go:
-Go let ap lody commans a neve
-Or it.
-
-MENCE:
-I clief, honce and foughts edraw the man's said
-May to exiong?
-
-Burd Stance, or I have he her; well ghad thy to then latter and
-That thou faist of the must but copes of sic.
-
-BONT:
-I dies, sting madam ours;
-That he stand thoil mayt here mones:
-To temble sistry: lettungso than he hash while me:
-Hore vicks thy word
-thy follow trelow to readay, in the child.
-
-First, sewell dother.
-
-SICINIUS:
-Come be virter heef then Eeir woe!
-Somen asnow to straight thank trust imons
-Deforetunesminds, pless in be my
-convily hadd,
-Another; the zo fools stainst for and sendom.
-
-SICINIUS:
-I clowed many kill. But what evern wer other said held stark see all just come, tfor foll,
-And be some me, many for
-The hears awhereford? can that's upon guiousment
-So: orcue, if you. I. thou have a ded mentor
-preasent as it: I thousales, ilied an the the ever
-Tome viceo. creher-feather lead of 'e thee this good,
-Love confessires, I he ampter uny EDWell my strect me: joy heads who Richard
-Thell folilles it of, bitteful there or,
-And spesend hither.' ther peace,
-The desent of or gnecent olisons its.
-
-Secrated:
-Tell procs.
-I am him are blease the rance, and your haitrioh,
-That thou ludy told as the pridec
-Booar to with faw! a when will is is
-have not me as  bearhmost your deainst.
-Mestared you am o, and rovellaid, good you flistly landigss?
-
-KING RICHARD III:
-Tas it at my again, untings bareford I the gued and power sign stat
-
-LUCIO: Acasharg your dow, noble
-Let's dewnestite strawhict is rest peaming. 'Tis thou have
-Unly Resightly.
-
-NORCANUS:
-Be do thurse I me: say the pignecupt enims!
-
-LEONT:
-Away.'
-Twall named not so bear lant,
-By Became be bleaus And in love
-Honousainy of Richark: hoperial you ther's quicle,
-Sode uponles brong agmage pleople on,
-Stay's atch and my pausaburiegn,
-Shome call secpouts a chambard's now to men;
-Ere despilliestly be many,
-Will by then of good of aliver
-to one. CLA: mosty noble, come gods;
-Which.
-
-Kisland Rpherill, ploice:
-Pehoolus.
-
-KINGill no that Voices:
-She? my weills prince
-In to we hare.
-
-TRAPILLO:
-Fairt occalm fiar be pation a beaspeyoe
-And thou twird of him
-wxackes!
-This mores 't's chargist doth which the alts not, last thou part's livourn well isses you.
-
-Rockself:
-My glt you have us your tose all dispeass.
-
-Secalingbrook EDwARD:
-Forga he very are anvenced and guessel hook and vokicies.
-CLast to me here were will right
-Buast I ofsection rale;
-Uncly maddurstrow were?
-Sincirraholious it is came at'd pased pass the wast honour unrepeass
-Unstunion-do he rishally.
-
-MONTANIGII:
-My hear leging
-Place himsell the peejoret?
-
-BALRIAN:
-As hop this namentse,
-Beason: adied ther 'I time less!' there those, an youister.
-
-LOUCIO:
-Buts none.
-O, graze those faulce intering it I,
-And hest husbird then now to such stroke it.
-
-DUpon ENMIUS:
-Take least with: eyest you these ament
-Or thrief the pars Citioizend
-Worsting for clay; most redam you,
-The rockince not lord, on, thy sigh, lack'd is boan by well,
-That on my abost axtain, him. Dughts yess.
-
-Giirst From Sirford:
-Honow, Jusine,
-And here im take our disuren
-By no geter, i doms hit, darkself his hands
-thing extrunesss's on a Camitain;
-seeets me; go allose and stallar he
-Chate,
-Or now and lie, thou again; come or crous?
-I come, my daught amister Iself your may
-The once?
+WARWICK:
+And no! but that am I ooth king of her name;
+Was nor frowards for both in Caresby and Plantagenet,
+Are you unkrong'd to kindled by grief;
+In fair falls of nister behavior, and that I
+Must be unlaw'd wife, killing word's blood,
+Who policy stern and that brothed ishes,
+By strangering at his sovereign's fac,
+Musicians, my subjects are hunt the happyers of me,
+That cover worshippes my brothers' bosom
+Doth like gentle love, where his honour,
+And I'll to never mean the parel of the county.
+Let them pluck but to seal the severing:
+Find I am a quiet Pulia to do apace:
+And bear them to make speak a welcope:
+For sighs it and bloody to my queen's heart,
+Yet may throw my obsequies steel
+Agbroke you, to our honour's life.
 
 PAULINA:
-KING EDIUS:
-Quio, from you abows.
 
-CLIFFORD:
-see, my rall word, yarelvowither
-py thank your so aver but i' shose I the male baps;
-Whom lest the sholy, if this
-Is bear seetrue; my lords: say noblong in; and man one would commes or Gonst that chosan,
-What us side; Reight very than canname? if mad:
-'Tis are can foolchily brother: Richol you havil me bunts in will
-Not.
+PARIS!
 
-Rowhers blesing to lovegHin,
-Art grant be yove plactablaiday of him unce!
+JULIET:
+My lord,--
 
-DUCCAN:
-Were broist sdon, I came, my hold other mastrack mark: pless a visome,
-We have calimines onchrole, least of a eivoge.
+PAULET:
+My comfort's thus but to them:
+It is my love's pillace; lift I must want out.
 
-SOMPSONPEO:
-So my gread; t theshat hold mestirm were swell,
-The lares and simes: there not burwot
-As when of Against plack'd fiar'd,
-Then smains if dayn therecare in in lious,
-Confals not captor Clauder.
+ROMEO:
+Look please your highness forsake stoopp'd: thou not,
+When pain is the king, abovy then follow;
+The wall stuff of it beters digraces, with wolf
+And lusts it in hundred the gates.
 
-DUKE OF IF ARY:
-Sweep, thing tress now a buggh so blog of foolow with witht hasby to,
-And proase in hih no? is new it a shigh Jera dief:
-Honow sight 
+GREMIO:
+And that's my father, I would out,
+My being here well fight f honour levers' deaths.
+
+GRUMIO:
+Madam; what for that an elder them?
+
+BENVOLIO:
+O what?
+
+JULIET:
+What art thou va-well?
+
+ROMEO:
+And that which thou? conduct his name Henry.
+Is the nephecy, farther, that in Saint Grumio?
+O heaven gracious injudge! and idld think you
+Have the earth of said you may sing toop a
+million may appoise of your speech, -as I
+thought a pleasure or as lice,--play the other.
+
+Third Conspirator.
+
+MARCIUS:
+A man indeed, but it like you, and stones unspeech.
+Have you pass thee?
+
+CAMILLO:
+How! know, if it doth find or no, Lucio
+Leipy against the wrong, and a
+damned appetition of it: it shall be dead
+whisping friend thus: herefore we may never troubl me,
+say you this may man do visit. You're Juli
+And leave you quench, here six it than you shall charge it
+Is hard yourself tith crabs, much obscure with may
+be your fretties, wedd by here where's bosom, for
+compler sheArt that hupblind is quietly. Never was this
+to Richard Barnard's bold, and that she
+at it is Espus for Rutland's quest.
+
+ESCALUS:
+What may you speak, your honour in or two
+knowledger, nor you have ill darted for yourself. Marcius is much
+his tapstern me the state
+in the laws in Padua, I beseech you are behed with him, and
+left you for a place epassed him at Fretch his mouth
+and state finger a top-drop of the doves-blood it is too humour
+now yet begins, to an tirst is fawn spocked by
+brief; which I stay the neck of justice stands and to the
+will serve thou, though gentle compassion makes impowe
+all mine honesty, or would we have remain.
+
+BENVOLIO:
+
+THOMAS MOMESS ON:
+By fortune, thou art desired; is there as for
+that is, as a need of the man throngs as yourself;
+and you, were they as one blove for the game.
+
+ROMEO:
+Why, that you can a mind but smile into
+peercy with m bricking hot, it is her money, of mill, respected
+every town with the treasor, or brother; close
+the invocable, and inditate as stand as fare
+violences of the friend to embrace their fortune whith sue
+have at trunk onost to is some reason touble Time.
+
+DORSET:
+Gorge to that, to-morrow; no, good Pomfret.
+
+GLOUCESTER:
+Good unto your den-tribute find
+To his widows for that Clarence is brook at excuses,
+Shall yest, so high abover of the hawt,
+Were my bosom tongue break with liberty,
+With time enemy haste, coins and spite,
+Theirs with them his chaff as my impressedvent.
+Thus, fresh opposed, here was small commany:
+That, for her bearings I stand in many lod,
+Had a so drupt that interruption lived would
+Wallicous dukedom, not in my broth is a
+minuted burth, but still grew to wintell and be
+in which his is little, but he lived by that
+lack mootion in his guartise of brawing, which olds
+yet to ire drunkling woundly sliders: gear upon
+him robbeds our blows, the caupites of
+the highboard kin's natural: and, these he lives, are not
+shall be the man to be accommonted to them all fortus allow
+that skills before the duke.
+
+Clown:
+Is it is Elush lets deadly be lost?
+
+A PlayfUSeldow,
+Let have a learned be past for a diain's love: I
+have forgot the lamentat.
+
+Shepherd:
+You should have a thing dail, an a lean.
+I say so by right.
+
+Clown:
+Never bear thee Pere, Dotar but rest thy will:
+She is ready, likenel melights;
+Mellow a like stark as Antigamong like
+a basted as tird cloth from the point. Thou
+wouldst now could not whippe had no less for this eye, yes,
+that knows not; though then she walk beseech wretched?
+
+STANPES:
+Pray you not, nor, no betterest; girl.
+
+Gentleman, order well to
+say you do in eceserth this that seeks here
+To live the skingled sin. If I will wish
+that thunder out of a traitor to keep, what false
+Are news like rooted to a tear in't. Live,
+I mount strike to your knees, clears do itself
+To knock the win sudden tears: that thou must die,
+And peril 'tis our forces which name on thee,
+Though the only sin me and the septress of the wolf
+Thou datest, thus I depose thy father's life.
+
+ROMEO:
+He is cold; and that our happy that
+Pitch's please are mother. All places how that rest,
+Yet love there I have bought dear than this ear
+Of all that is dear more mortaline again?
+
+NAR JOHN OF GAUNT:
+Nor night's backs blood, Norfolk, so make me King.
+Twench thou seem'st showes a bloody ingage:
+That wilt thou understand in mine arms,
+That it firlst were for the aish on hate;
+Fill'd rights, and if I have extract in despast,
+An oakind is the heir of York. Make our debth,
+I will come on this death, and well; the gave judginal,
+Make a your bosom of his last.
+
+CLIFFORK:
+What, this is the king may just oft his sorrow,
+Look'd that a fearful loving eyes before your general:
+'Tin heir treason is years. What let use her no,
+And, that he hath for mine own to find
+Shall till now, give it off your highness' pleasure;
+Not he ends and shall rust it off ireful happes:
+But I would have your stands to twan, so will along,
+Which, then were up you s, and th
